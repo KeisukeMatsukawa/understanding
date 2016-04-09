@@ -1,0 +1,21 @@
+html,body {font: 12px メイリオ, 'Lucida Grande', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'ＭＳ Ｐゴシック', Meiryo, Geneva, Arial, Verdana, sans-serif;}
+html {min-height: 100%; position: relative;width: 100%;margin: 0!important;}
+ul {margin:0; padding:0;}
+ul li {list-style:none;}
+p {color:#000; font-size:14px;}
+a { color:#1b6748; text-decoration: underline;}
+a:hover { color:#666; text-decoration: none;}
+a img {border:none;}
+
+h1 {font-size: 28px;line-height: 1.5em;}
+h2 {font-size: 24px;line-height: 1.5em;}
+h3 {font-size: 20px;line-height: 1.5em; background: #ececec; font-weight: normal; padding: 16px;}
+h4 {font-size: 18px;line-height: 1.5em;}
+h5 {font-size: 15px;line-height: 1.5em;}
+
+span {font-size:11px; background:#ececec; color:#333; padding:4px;}
+
+/*tables*/
+table { border-left:solid 1px #ccc; border-bottom:solid 1px #ccc;font-size: 12px;margin: 16px auto;width: 80%; border-spacing: 0; border-collapse: collapse;}
+th {text-align: center;padding: 16px;border-top: solid 1px #ccc;border-right: solid 1px #ccc;}
+td {background: #efefef;text-align: center;padding: 16px;border-top: solid 1px #ccc;border-right: solid 1px #ccc;}
